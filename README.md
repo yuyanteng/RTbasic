@@ -18,3 +18,14 @@
   npm i -D @babel/core @babel/preset-env
 
 ```
+
+## 添加.gitignore文件
+过滤不上传到仓库的文件
+
+## 配置TS
+1. tsc --init
+2. 查看ts、写入所需配置
+
+## 配置babel
+1. 创建.babelrc.json
+
