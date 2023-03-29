@@ -12,11 +12,12 @@
     "url": "git+https://github.com/yuyanteng/RTbasic.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "yuyanteng",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yuyanteng/RTbasic/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/yuyanteng/RTbasic#readme",
   "devDependencies": {
     "@babel/core": "^7.21.3",
