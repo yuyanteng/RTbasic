@@ -29,3 +29,6 @@
 ## 配置babel
 1. 创建.babelrc.json
 
+## 配置rollup
+创建rollup.config.js文件，写入对应的打包配置
+
