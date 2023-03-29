@@ -31,4 +31,6 @@
 
 ## 配置rollup
 创建rollup.config.js文件，写入对应的打包配置
+打包时出错，提示在package中加入type的module
 
+## 测试代码 打包成功
